@@ -1,0 +1,33 @@
+.nav-head {
+  background-color: #92e3a9;
+  color: black;
+}
+
+.navbar-brand {
+  color: black;
+}
+.navbar-toggler {
+  color: black;
+}
+
+.navbar-link-items {
+  margin-right: -1000px;
+}
+
+.navbar-link a {
+  color: black;
+}
+
+.landing-body {
+  /* border: 10px solid; */
+  height: 90vh;
+  background-image: url("../assets/ref-u.svg");
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  /* position: relative; */
+  /* text-align: center; */
+  /* overflow: hidden; */
+}
